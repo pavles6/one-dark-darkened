@@ -1,0 +1,7 @@
+id = "one-dark-darkened"
+name = "One Dark - Darkened"
+version = "0.0.1"
+schema_version = 1
+authors = ["Pavle Sokic <pavles6@protonmail.com>"]
+description = "A darkened variant with enhanced contrast of One Dark theme for Zed."
+repository = "https://github.com/pavles6/one-dark-darkened"
