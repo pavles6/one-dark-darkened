@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "One Dark - Darkened",
   "author": "Pavle Sokic <pavles6@protonmail.com>",
   "themes": [
@@ -43,7 +43,7 @@
         "tab_bar.background": "#1a1e23ff",
         "tab.inactive_background": "#202329ff",
         "tab.active_background": "#17191dff",
-        "search.match_background": "#74ade866",
+        "search.match_background": "#74ade81a",
         "panel.background": "#1b1e23ff",
         "scrollbar.thumb.background": "#7173784c",
         "scrollbar.thumb.hover_background": "#2b3038ff",
@@ -172,7 +172,7 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#787c85ff",
+            "color": "#5d636fff",
             "font_style": null,
             "font_weight": null
           },
@@ -192,7 +192,7 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#c8ccd4ff",
+            "color": "#dce0e5ff",
             "font_style": null,
             "font_weight": null
           },
@@ -217,7 +217,7 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#5a6f89ff",
+            "color": "#788ca6ff",
             "font_style": null,
             "font_weight": null
           },
@@ -241,6 +241,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "namespace": {
+            "color": "#dce0e5ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "number": {
             "color": "#bf956aff",
             "font_style": null,
@@ -257,7 +262,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#c8ccd4ff",
+            "color": "#dce0e5ff",
             "font_style": null,
             "font_weight": null
           },
@@ -267,7 +272,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#d07277ff",
+            "color": "#e78284ff",
             "font_style": null,
             "font_weight": null
           },
@@ -291,8 +296,23 @@
             "font_style": null,
             "font_weight": null
           },
+          "punctuation.markup": {
+            "color": "#d07277ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "punctuation.special": {
             "color": "#b1574bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector": {
+            "color": "#dfc184ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector.pseudo": {
+            "color": "#74ade8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -342,7 +362,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#c8ccd4ff",
+            "color": "#acb2beff",
             "font_style": null,
             "font_weight": null
           },
