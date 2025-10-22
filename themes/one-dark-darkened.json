@@ -217,7 +217,8 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#788ca6ff",
+            "color": "#5d636fff",
+            "background_color": "#1d2127ff",
             "font_style": null,
             "font_weight": null
           },
@@ -242,7 +243,7 @@
             "font_weight": null
           },
           "namespace": {
-            "color": "#dce0e5ff",
+            "color": "#c8ccd4ff",
             "font_style": null,
             "font_weight": null
           },
@@ -362,7 +363,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#acb2beff",
+            "color": "#c8ccd4ff",
             "font_style": null,
             "font_weight": null
           },
