@@ -1,6 +1,6 @@
 id = "one-dark-darkened"
 name = "One Dark - Darkened"
-version = "1.0.1"
+version = "1.0.2"
 schema_version = 1
 authors = ["Pavle Sokic <pavles6@protonmail.com>"]
 description = "A darkened variant with enhanced contrast of One Dark theme for Zed."
